@@ -11,7 +11,7 @@ Hello, I'm <b>Rhe</b>  🖐️<br>I am a <b>Creative Worker</b> and I'm passiona
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 -->
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 
 🌱 мємαуυ нαуυηιηg вαωσησ. <br>
 ⏳ Sacrifice behind closed doors, so that more doors will open for u in the future.
